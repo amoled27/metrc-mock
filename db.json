@@ -1,0 +1,24 @@
+{
+	"locations": [
+        {
+            "name" : "Santa Clara"
+        },
+        {
+            "name" : "Houston"
+        },
+        {
+            "name" : "Sunnyvale"
+        }
+    ],
+    "packageTypes" : [
+        {
+            "name": "Hyper-X"
+        },
+        {
+            "name": "Neutro-X"
+        },
+        {
+            "name": "Broing"
+        }
+    ]
+}
